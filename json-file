@@ -1,0 +1,8 @@
+[
+	{"id":"articleBranches","imageSrc":"assets/images/icon-A.png","imageAlt":"Branches Alt description","title":"Branches","description":"Abstract Branches lets you manage, version, and document your designs in on place."},
+	{"id":"articleManageYourAccount","imageSrc":"assets/images/icon-B.png","imageAlt":"Manage your account Alt description","title":"Manage your account","description":"Configure your account settings, such as your email, profile details, and password."},
+	{"id":"articleBranches","imageSrc":"assets/images/icon-C.png","imageAlt":"Manage organizations, teams, ans projects Alt description","title":"Manage organizations, teams, ans projects","description":"Use Abstract organizations, teams, and projects to organize your people and your work."},
+	{"id":"articleManageBilling","imageSrc":"assets/images/icon-D.png","imageAlt":"Manage billing Alt description","title":"Manage billing","description":"Change subscriptions and payment details."},
+	{"id":"articleAuthenticateToAbstract","imageSrc":"assets/images/icon-E.png","imageAlt":"Authenticate to Abstract Alt description","title":"Authenticate to Abstract","description":"Set up and configure SSO, SCIM, and Just-in-Time provisioning."},
+	{"id":"articleAbstractSupport","imageSrc":"assets/images/icon-F.png","imageAlt":"Abstract support Alt description","title":"Abstract support","description":"Get in touch with a human."}
+]
